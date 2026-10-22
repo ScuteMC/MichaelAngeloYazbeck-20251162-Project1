@@ -1,0 +1,11 @@
+01. PASS | Input Actions, movement and follow camera | Real virtual keyboard input; 1s distance 5.88; diagonal distance 2.16; timer advances.
+02. PASS | Connected level and solid physics | Collision-driven tests for bed and boundary; 12 solids; clearance-aware flood fill reaches every marker.
+03. PASS | One-item carrying and empty visits | Real Rigidbody2D trigger entry; hidden pickup; second collect rejected; empty shrine gives zero progress.
+04. PASS | Delivery, bonus and relocation | One trigger gives one delivery and +5 seconds; consumes cargo before counting; both objects relocate without reuse.
+05. PASS | Random spawn safety | 1,000 consecutive randomized pairs checked: distinct, separated >=8m, >=3m from player, clear of solids, no prior-pair reuse; 21 markers.
+06. PASS | Five-second boost and refresh | Real boost trigger; second flower restarts 5s without stacking; stationary 5.2s wait restores speed from 10 to 6.
+07. PASS | Cancellation, loss and finished-state lock | Delivery cancels boost; timeout becomes zero; held movement and attempted gameplay actions have no effect after loss.
+08. PASS | Restart after loss | Actual R Input Action restarts without leaving Play Mode: time, count, cargo, speed, player position, pickups and route generation reset.
+09. PASS | Win, final-delivery exclusions and lock | 10 deliveries wins with positive time; no final +5 bonus; no final relocation; all subsequent progress/timer/boost calls rejected.
+10. PASS | Win restart, deadline and UI | R resets a win; cargo at exactly zero cannot score; TMP timer reads 00:00 and loss has its own result text.
+COMPLETE: ALL TEN TEST RECORDS PASS

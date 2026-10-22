@@ -1,0 +1,1339 @@
+fileFormatVersion: 2
+guid: f716fba3ed61fa74388438ea380e2d02
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1047378087723924040
+    second: GardenRock_0
+  - first:
+      213: -610638051224383286
+    second: GardenRock_1
+  - first:
+      213: 3935103268813305746
+    second: GardenRock_2
+  - first:
+      213: -8975511349016447107
+    second: GardenRock_3
+  - first:
+      213: -4437547886993772937
+    second: GardenRock_4
+  - first:
+      213: 4064984337522636062
+    second: GardenRock_5
+  - first:
+      213: -6433375027917504448
+    second: GardenRock_6
+  - first:
+      213: -1576901727358041850
+    second: GardenRock_7
+  - first:
+      213: -8834862841969592966
+    second: GardenRock_8
+  - first:
+      213: -5407916781682909588
+    second: GardenRock_9
+  - first:
+      213: 1877812932111876742
+    second: GardenRock_10
+  - first:
+      213: 7198399568330767412
+    second: GardenRock_11
+  - first:
+      213: -5054881652251832405
+    second: GardenRock_12
+  - first:
+      213: -3569335936488280632
+    second: GardenRock_13
+  - first:
+      213: -1608802170152114519
+    second: GardenRock_14
+  - first:
+      213: 1443640801566177582
+    second: GardenRock_15
+  - first:
+      213: -1454707289097047879
+    second: GardenRock_16
+  - first:
+      213: -6653103928186756349
+    second: GardenRock_17
+  - first:
+      213: -4404190302140744990
+    second: GardenRock_18
+  - first:
+      213: 84985058758589220
+    second: GardenRock_19
+  - first:
+      213: 1487360097524071715
+    second: GardenRock_20
+  - first:
+      213: -7537971338424291212
+    second: GardenRock_21
+  - first:
+      213: -794445259671472451
+    second: GardenRock_22
+  - first:
+      213: -7717646615079769070
+    second: GardenRock_23
+  - first:
+      213: 8852478139389446344
+    second: GardenRock_24
+  - first:
+      213: 3751604885341225884
+    second: GardenRock_25
+  - first:
+      213: 7157827884894406267
+    second: GardenRock_26
+  - first:
+      213: 3859229258648554846
+    second: GardenRock_27
+  - first:
+      213: 4220758808857495781
+    second: GardenRock_28
+  - first:
+      213: 2351165436019387568
+    second: GardenRock_29
+  - first:
+      213: 6207656830155124068
+    second: GardenRock_30
+  - first:
+      213: -1371376959216731177
+    second: GardenRock_31
+  - first:
+      213: 8601746945703252830
+    second: GardenRock_32
+  - first:
+      213: -3701660323257460819
+    second: GardenRock_33
+  - first:
+      213: 1470984478376854771
+    second: GardenRock_34
+  - first:
+      213: 1132832023909536914
+    second: GardenRock_35
+  - first:
+      213: -7528866213115398341
+    second: GardenRock_36
+  - first:
+      213: 4076848282152022660
+    second: GardenRock_37
+  - first:
+      213: 7403777580689997472
+    second: GardenRock_38
+  - first:
+      213: -557149473553452605
+    second: GardenRock_39
+  - first:
+      213: 7656419848945149782
+    second: GardenRock_40
+  - first:
+      213: -2299422329564913216
+    second: GardenRock_41
+  - first:
+      213: 6402455348490259817
+    second: GardenRock_42
+  - first:
+      213: 4711259413252467591
+    second: GardenRock_43
+  - first:
+      213: -5937259035911704037
+    second: GardenRock_44
+  - first:
+      213: 1921268268893936153
+    second: GardenRock_45
+  - first:
+      213: -7130007336063883596
+    second: GardenRock_46
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: GardenRock_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1519
+        height: 1021
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84aff4052d8098e00800000000000000
+      internalID: 1047378087723924040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GardenRock_1
+      rect:
+        serializedVersion: 2
+        x: 1168
+        y: 1019
+        width: 9
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac01f6e7de39687f0800000000000000
+      internalID: -610638051224383286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GardenRock_2
+      rect:
+        serializedVersion: 2
+        x: 1328
+        y: 1009
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 297781ce29b4c9630800000000000000
+      internalID: 3935103268813305746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GardenRock_3
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 957
+        width: 27
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d77336c7bf3907380800000000000000
+      internalID: -8975511349016447107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GardenRock_4
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 979
+        width: 34
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77e63f935b9aa62c0800000000000000
+      internalID: -4437547886993772937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GardenRock_5
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 993
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e15309fb7b9b96830800000000000000
+      internalID: 4064984337522636062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GardenRock_6
+      rect:
+        serializedVersion: 2
+        x: 1192
+        y: 987
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 040cb126f7f08b6a0800000000000000
+      internalID: -6433375027917504448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GardenRock_7
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 972
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 601cf17db38bd1ae0800000000000000
+      internalID: -1576901727358041850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GardenRock_8
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 969
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a75ba19ed03446580800000000000000
+      internalID: -8834862841969592966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GardenRock_9
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 965
+        width: 7
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6e9ae4e65833f4b0800000000000000
+      internalID: -5407916781682909588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GardenRock_10
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 852
+        width: 63
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 682c925a9e45f0a10800000000000000
+      internalID: 1877812932111876742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GardenRock_11
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 828
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43c3ea5c44ad5e360800000000000000
+      internalID: 7198399568330767412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GardenRock_12
+      rect:
+        serializedVersion: 2
+        x: 1466
+        y: 837
+        width: 53
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bafc3ef4be379d9b0800000000000000
+      internalID: -5054881652251832405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GardenRock_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 670
+        width: 79
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cd649d70eb277ec0800000000000000
+      internalID: -3569335936488280632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GardenRock_14
+      rect:
+        serializedVersion: 2
+        x: 1424
+        y: 757
+        width: 37
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a6a43633f26ca9e0800000000000000
+      internalID: -1608802170152114519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GardenRock_15
+      rect:
+        serializedVersion: 2
+        x: 1456
+        y: 753
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e29bc9809a7d80410800000000000000
+      internalID: 1443640801566177582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GardenRock_16
+      rect:
+        serializedVersion: 2
+        x: 1480
+        y: 711
+        width: 41
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b0f23d8d67dfcbe0800000000000000
+      internalID: -1454707289097047879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GardenRock_17
+      rect:
+        serializedVersion: 2
+        x: 1464
+        y: 746
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3032caa1a3d6ba3a0800000000000000
+      internalID: -6653103928186756349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GardenRock_18
+      rect:
+        serializedVersion: 2
+        x: 1450
+        y: 689
+        width: 21
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ea3ead214c21e2c0800000000000000
+      internalID: -4404190302140744990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GardenRock_19
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 657
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42b758ee57ded2100800000000000000
+      internalID: 84985058758589220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GardenRock_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 584
+        width: 5
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32d330ad02a24a410800000000000000
+      internalID: 1487360097524071715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GardenRock_21
+      rect:
+        serializedVersion: 2
+        x: 1462
+        y: 593
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 470f42e610fb36790800000000000000
+      internalID: -7537971338424291212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GardenRock_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 528
+        width: 7
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db6f9c7de3099f4f0800000000000000
+      internalID: -794445259671472451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GardenRock_23
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 407
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21cac2e1b4965e490800000000000000
+      internalID: -7717646615079769070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GardenRock_24
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 341
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c8083027f15ada70800000000000000
+      internalID: 8852478139389446344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GardenRock_25
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 321
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c93426034c0601430800000000000000
+      internalID: 3751604885341225884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GardenRock_26
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 319
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b76448a9986b55360800000000000000
+      internalID: 7157827884894406267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GardenRock_27
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 307
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5d8a8c409cbe8530800000000000000
+      internalID: 3859229258648554846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GardenRock_28
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 279
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e84d8c26c5239a30800000000000000
+      internalID: 4220758808857495781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GardenRock_29
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 177
+        width: 83
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bcac1ec18401a020800000000000000
+      internalID: 2351165436019387568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GardenRock_30
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 289
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46d6ce85ff6062650800000000000000
+      internalID: 6207656830155124068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GardenRock_31
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 289
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7db3bb4ebe3e7fce0800000000000000
+      internalID: -1371376959216731177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GardenRock_32
+      rect:
+        serializedVersion: 2
+        x: 1504
+        y: 287
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e53917ae54b8f5770800000000000000
+      internalID: 8601746945703252830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GardenRock_33
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 257
+        width: 5
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da7d4195c8f01acc0800000000000000
+      internalID: -3701660323257460819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GardenRock_34
+      rect:
+        serializedVersion: 2
+        x: 1438
+        y: 193
+        width: 37
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f404c7e69cf96410800000000000000
+      internalID: 1470984478376854771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GardenRock_35
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 13
+        width: 193
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 294905749b0a8bf00800000000000000
+      internalID: 1132832023909536914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GardenRock_36
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 37
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b37f0dd9118148790800000000000000
+      internalID: -7528866213115398341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GardenRock_37
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 33
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48235dc99efd39830800000000000000
+      internalID: 4076848282152022660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GardenRock_38
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 31
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ae37059b708fb660800000000000000
+      internalID: 7403777580689997472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GardenRock_39
+      rect:
+        serializedVersion: 2
+        x: 1090
+        y: 35
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c1fc06718b9448f0800000000000000
+      internalID: -557149473553452605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GardenRock_40
+      rect:
+        serializedVersion: 2
+        x: 1092
+        y: 25
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65720a38941114a60800000000000000
+      internalID: 7656419848945149782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GardenRock_41
+      rect:
+        serializedVersion: 2
+        x: 1158
+        y: 17
+        width: 31
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c1aea9f29fc610e0800000000000000
+      internalID: -2299422329564913216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GardenRock_42
+      rect:
+        serializedVersion: 2
+        x: 1232
+        y: 13
+        width: 75
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96dcf01c7371ad850800000000000000
+      internalID: 6402455348490259817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GardenRock_43
+      rect:
+        serializedVersion: 2
+        x: 1304
+        y: 31
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78be0ab9971c16140800000000000000
+      internalID: 4711259413252467591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GardenRock_44
+      rect:
+        serializedVersion: 2
+        x: 1320
+        y: 13
+        width: 31
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1231012d5e9a9da0800000000000000
+      internalID: -5937259035911704037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GardenRock_45
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 13
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91a17adaf47b9aa10800000000000000
+      internalID: 1921268268893936153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GardenRock_46
+      rect:
+        serializedVersion: 2
+        x: 1346
+        y: 21
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b6abffaa102d0d90800000000000000
+      internalID: -7130007336063883596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      GardenRock_0: 1047378087723924040
+      GardenRock_1: -610638051224383286
+      GardenRock_10: 1877812932111876742
+      GardenRock_11: 7198399568330767412
+      GardenRock_12: -5054881652251832405
+      GardenRock_13: -3569335936488280632
+      GardenRock_14: -1608802170152114519
+      GardenRock_15: 1443640801566177582
+      GardenRock_16: -1454707289097047879
+      GardenRock_17: -6653103928186756349
+      GardenRock_18: -4404190302140744990
+      GardenRock_19: 84985058758589220
+      GardenRock_2: 3935103268813305746
+      GardenRock_20: 1487360097524071715
+      GardenRock_21: -7537971338424291212
+      GardenRock_22: -794445259671472451
+      GardenRock_23: -7717646615079769070
+      GardenRock_24: 8852478139389446344
+      GardenRock_25: 3751604885341225884
+      GardenRock_26: 7157827884894406267
+      GardenRock_27: 3859229258648554846
+      GardenRock_28: 4220758808857495781
+      GardenRock_29: 2351165436019387568
+      GardenRock_3: -8975511349016447107
+      GardenRock_30: 6207656830155124068
+      GardenRock_31: -1371376959216731177
+      GardenRock_32: 8601746945703252830
+      GardenRock_33: -3701660323257460819
+      GardenRock_34: 1470984478376854771
+      GardenRock_35: 1132832023909536914
+      GardenRock_36: -7528866213115398341
+      GardenRock_37: 4076848282152022660
+      GardenRock_38: 7403777580689997472
+      GardenRock_39: -557149473553452605
+      GardenRock_4: -4437547886993772937
+      GardenRock_40: 7656419848945149782
+      GardenRock_41: -2299422329564913216
+      GardenRock_42: 6402455348490259817
+      GardenRock_43: 4711259413252467591
+      GardenRock_44: -5937259035911704037
+      GardenRock_45: 1921268268893936153
+      GardenRock_46: -7130007336063883596
+      GardenRock_5: 4064984337522636062
+      GardenRock_6: -6433375027917504448
+      GardenRock_7: -1576901727358041850
+      GardenRock_8: -8834862841969592966
+      GardenRock_9: -5407916781682909588
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
